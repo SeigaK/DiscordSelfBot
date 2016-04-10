@@ -1,7 +1,12 @@
-apply plugin: 'java'
-apply plugin: 'idea'
-apply plugin: 'eclipse'
+plugins {
+    id "java"
+    id "com.github.johnrengelman.shadow" version "1.2.3"
+    id "eclipse"
+    id "idea"
+    id "application"
+}
 
+mainClassName = "net.notfab.discord.selfbot.Start"
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
