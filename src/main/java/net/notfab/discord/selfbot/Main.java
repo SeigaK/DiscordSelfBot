@@ -44,6 +44,7 @@ public class Main {
         OriginalName = JDA.getSelfInfo().getUsername();
         JDA.addEventListener(new CommandListener());
         JDA.addEventListener(new MessageListener());
+        while(true) {} // Don't die
     }
 
 }
