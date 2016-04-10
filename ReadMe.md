@@ -30,6 +30,7 @@ Using:
 - /tinyurl   | Makes an URL smaller
 
 ## How to install
+Before doing anything else, make sure you have JAVA 8 installed on your computer.
 
 1. Go to the [Releases](https://github.com/Fabricio20/DiscordSelfBot/releases) Page
 2. Download the latest version
