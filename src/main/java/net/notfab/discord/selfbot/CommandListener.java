@@ -45,6 +45,7 @@ public class CommandListener extends ListenerAdapter {
             String rest = argsToString(args, 1);
             e.getMessage().updateMessage("<@98295630480314368> " + rest);
         } else if(cmd.equalsIgnoreCase("/stop")) {
+            e.getMessage().deleteMessage();
             System.exit(0);
         } else if(cmd.equalsIgnoreCase("/name")) {
             if(args.length == 0) {

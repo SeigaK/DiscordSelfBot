@@ -10,6 +10,10 @@ mainClassName = "net.notfab.discord.selfbot.Start"
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
+compileJava { 
+  options.encoding = "UTF-8" 
+}
+
 repositories {
     mavenCentral()
     jcenter()
