@@ -20,7 +20,7 @@ Using:
 - /shrug     | Shrugs
 - /idle      | Sets IDLE status
 - /abal      | Mentions abalabahaha
-- /exit      | Shuts down
+- /stop      | Shuts down
 - /name      | Changes name
 - /revert    | Reverts name
 - /purge     | Purgues chat (User and/or amount)

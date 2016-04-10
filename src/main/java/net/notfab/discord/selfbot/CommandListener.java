@@ -181,7 +181,7 @@ public class CommandListener extends ListenerAdapter {
             sb.append("/shrug     | Shrugs\n");
             sb.append("/idle      | Sets IDLE status\n");
             sb.append("/abal      | Mentions abalabahaha\n");
-            sb.append("/exit      | Shuts down\n");
+            sb.append("/stop      | Shuts down\n");
             sb.append("/name      | Changes name\n");
             sb.append("/revert    | Reverts name\n");
             sb.append("/purge     | Purgues chat (User and/or amount)\n");
