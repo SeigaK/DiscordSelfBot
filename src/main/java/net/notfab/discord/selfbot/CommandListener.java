@@ -198,7 +198,7 @@ public class CommandListener extends ListenerAdapter {
             sb.append("/goodshit  | Good shit copypasta\n");
             sb.append("/apache    | Attack Helicopter copypasta\n");
             sb.append("/daddy     | Daddy and me copypasta\n");
-            sb.append("/4chan     | Found it on a 4chan thread copypasta\n");
+            sb.append("/4chan     | Found it on a 4chan thread copypasta```");
             e.getMessage().updateMessage(sb.toString());
         }
     }
