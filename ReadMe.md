@@ -2,7 +2,9 @@
 This is a basic discord bot made for my own account, it serves some "useful" commands.
 
 Made By: Fabricio20
-Thanks to: Minn (For providing delete history method)
+Thanks to: 
+-   Minn (For providing delete history method)
+-   Sponges (For providing copypastas)
 Using:
 - Lombok
 - Jsoup
@@ -28,6 +30,12 @@ Using:
 - /newfag    | Proves you are a newfag
 - /lmgtfy    | Let Me Google That For You
 - /tinyurl   | Makes an URL smaller
+- /navyseal  | Navy seal copypasta
+- /edgyshit  | Edgy shit copypasta
+- /goodshit  | Good shit copypasta
+- /apache    | Attack Helicopter copypasta
+- /daddy     | Daddy and me copypasta
+- /4chan     | Found it on a 4chan thread copypasta
 
 ## How to install
 Before doing anything else, make sure you have JAVA 8 installed on your computer.
