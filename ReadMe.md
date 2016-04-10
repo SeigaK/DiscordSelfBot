@@ -6,6 +6,7 @@ Thanks to:
 -   Minn (For providing delete history method)
 -   Sponges (For providing copypastas)
 -   Almigthy (For fixing my gradle build)
+
 Using:
 - Lombok
 - Jsoup
