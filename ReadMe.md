@@ -16,14 +16,13 @@ Using:
 ## Command List
 - /help      | Displays this help message
 - /lenny     | Pastes lenny
-- /lenny     | Pastes lenny
 - /shrug     | Shrugs
 - /idle      | Sets IDLE status
 - /abal      | Mentions abalabahaha
 - /stop      | Shuts down
 - /name      | Changes name
 - /revert    | Reverts name
-- /purge     | Purgues chat (User and/or amount)
+- /purge     | Purges chat (User and/or amount)
 - /game      | Changes the game
 - /thegame   | You just lost
 - /greentext | Greentext
